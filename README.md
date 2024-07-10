@@ -5,7 +5,7 @@ Uses ChatGPT API to get customised health advise based on a health questionnaire
 # Steps to Run
 
 1. Create a Virtual Environment in python with virtualenv `python3 -m venv env`
-2. Activate venv with `. venv/bin/activate`
+2. Activate venv with `. env/bin/activate`
 3. Install requirements with `pip install -r requirements.txt`
 4. Run the app with `python app.py`
 
